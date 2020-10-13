@@ -1,0 +1,53 @@
+.header {
+  height: 100vh;
+  background-image: url("../../assets/img/banner_4.jpg");
+  text-shadow: 2px 2px 5px #292929;
+  background-size: cover;
+  background-position: center;
+  position: relative;
+  max-width: 100%;
+  text-align: center;
+}
+
+.logo-box {
+  position: absolute;
+  top: 25px;
+  left: 25px;
+}
+
+.logo {
+  height: 50px;
+}
+
+.heading-primary {
+  color: #fff;
+  text-transform: uppercase;
+}
+
+.heading-primary-main {
+  display: block;
+  font-size: 50px;
+  font-weight: 400;
+  letter-spacing: 4px;
+}
+
+.heading-primary-sub {
+  display: block;
+  font-size: 20px;
+  font-weight: 200;
+  letter-spacing: 11px;
+}
+
+.text-box {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.w_hilight {
+  background-color: #8d110b;
+  text-align: center;
+  color: #fff;
+  font-weight: bold;
+}
