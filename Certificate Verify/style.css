@@ -22,13 +22,6 @@ body{
   text-align:center;
 }
 
-.container  p:first-child{
-  padding:2vmin;
-  background-color: white;
-  border-radius: 12px;
-  font-size: 5vmin;
-}
-
 input{
   margin:2vmin;
   font-size: 4vmin;
