@@ -43,3 +43,26 @@ input{
   margin:2vmin;
   font-size: 4vmin;
 }
+
+input{
+  color: rgba(0,0,0,0.54);
+  margin-top:2vmin;
+  margin-bottom: 2vmin;
+  font-size: 4vmin;
+  width: 100%;
+  border: none;
+  border-width: 0px 0px 1px;
+  border-style: solid;
+}
+
+.button {
+  padding: 5px;
+  float: right;
+  transition-duration: 0.4s;
+  border: 2px solid #4CAF50;
+}
+
+.button:hover {
+  background-color: #4CAF50; /* Green */
+  color: white;
+}
