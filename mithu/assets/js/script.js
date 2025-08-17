@@ -55,7 +55,7 @@
         const textArray = [
           "YouTube Channel Manager",
           "Music Distributor", 
-          "CMS &amp; MCN Work Specialist",
+          "CMS & MCN Work Specialist",
         ];
         
         const typingDelay = 100; // Delay between each character
@@ -120,3 +120,4 @@
         });
 
       });
+
