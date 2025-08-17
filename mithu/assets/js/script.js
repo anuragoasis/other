@@ -53,14 +53,9 @@
         const cursorSpan = document.querySelector(".cursor");
         
         const textArray = [
-          "Professional Video Editor",
-          "YouTube Content Specialist",
-          "Graphic Designer",
-          "3D Visual Artist",
-          "Motion Graphics Expert",
-          "VFX Specialist",
-          "Professional Color Grader",
-          "Storyteller & Filmmaker"
+          "YouTube Channel Manager",
+          "Music Distributor", 
+          "CMS &amp; MCN Work Specialist",
         ];
         
         const typingDelay = 100; // Delay between each character
@@ -123,4 +118,5 @@
             }
           });
         });
+
       });
